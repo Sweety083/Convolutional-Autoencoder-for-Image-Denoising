@@ -37,8 +37,7 @@ Compile the model and Display the images
 ### STEP 5:
 End the program
 ## PROGRAM
-### Name: SabariAkash A
-### Register Number: 212222230124
+
 
 
 ```py
