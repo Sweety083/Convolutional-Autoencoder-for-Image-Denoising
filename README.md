@@ -1,4 +1,4 @@
-# EXP-07:Convolutional Autoencoder for Image Denoising
+Convolutional Autoencoder for Image Denoising
 
 ## AIM
 
@@ -114,12 +114,12 @@ autoencoder1.fit(x_train_noisy, x_train_scaled,
 metrics = pd.DataFrame(autoencoder1.history.history)
 metrics.head()
 
-print("SABARI AKASH A")
+print("sweety R")
 metrics[['loss','val_loss']].plot()
 decoded_imgs = autoencoder1.predict(x_test_noisy)
 
 n = 10
-print('Name: SabariAkash A\t Register Number: 212222230124       \n')
+print('Name: sweety R A\t Register Number: RA2211026010083       \n')
 plt.figure(figsize=(20, 4))
 for i in range(1, n + 1):
     # Display original
